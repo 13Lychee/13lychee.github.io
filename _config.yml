@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Liqi Cheng / Site Title"
+title                    : "Liqi Cheng (Lychee, 程礼棋)"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
