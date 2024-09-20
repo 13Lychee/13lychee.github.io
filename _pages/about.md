@@ -12,8 +12,8 @@ This is the front page of a website that is powered by the [Academic Pages templ
 
 Educations
 ======
-[2022.09-current] Ph.D. Candidate, Zhejiang University, Hangzhou
-[2018.09-2022.06] Undergraduate, Zhejiang University, Hangzhou
+- [2022.09-current] Ph.D. Candidate, Zhejiang University, Hangzhou
+- [2018.09-2022.06] Undergraduate, Zhejiang University, Hangzhou
 
 A data-driven personal website
 ======
