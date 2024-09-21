@@ -21,13 +21,16 @@ News
 - 07/2024: A paper accepted to ACM UIST 2024 and a paper accepted to IEEE VIS 2024.
 - 04/2024: A paper about "sports news generation" accepted to IEEE TVCG.
 - 12/2023: A paper accepted to AAAI.
+
+
+
 ------
 
 Publications
 ======
 
 <style>
-    .no-border-table {
+    .no-outer-border-table {
         border-collapse: collapse;
         width: 100%;
     }
@@ -42,7 +45,7 @@ Publications
     }
 </style>
 
-<div align="center"> <table class="no-border-table" rules="none"> 
+<div align="center"> <table class="no-outer-border-table" rules="none"> 
     <tr>  
     <td> <img src="/images/viscourt.png" style="zoom:50%"  alt="图片名称"/> </td> <td> 
     <p><b>VisCourt: In-Situ Guidance for Interactive Tactic Training in Mixed Reality | ACM UIST'24</b>
@@ -68,6 +71,12 @@ ViSTec: Video Modeling for Sports Technique Recognition and Tactical Analysis | 
     </p>
      <p>Yuchen He, Zeqing Yuan, Yihong Wu, <b>Liqi Cheng</b>, Dazhen Deng, and Yingcai Wu</p> 
      <p><a href="/files/vistec.pdf">Paper</a> <b> | </b> <a href="https://vistec2024.github.io/">Video</a> <b> | </b> <a href="https://doi.org/10.1609/AAAI.V38I8.28692">DOI</a>  </p> </div>
+
+
+
+
+------
+
 
 
 Educations
