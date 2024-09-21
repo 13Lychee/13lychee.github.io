@@ -22,7 +22,8 @@ Educations
 
 Honors and Awards
 ======
-
+- [2022.06] Outstanding Graduates of Zhejiang Province
+- [2022.06] Graduate Student Scholarship
 
 <br>
 
