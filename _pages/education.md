@@ -25,8 +25,8 @@ Honors and Awards
 
 Services
 ======
-### Reviewing  
-- [2023] CHI LBW, ChinaVis
+- **Reviewing**  
+  - [2023] CHI LBW, ChinaVis
 
 
 Teaching
