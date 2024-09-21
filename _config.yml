@@ -24,9 +24,9 @@ author:
   avatar           : "photo.jpg"
   name             : "Liqi Cheng"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Candidate"
+  bio              : "Ph.D. Candidate, Zhejiang University"
   location         : "Hangzhou, China"
-  employer         : "Zhejiang University"
+  employer         : # URL
   uri              : # URL
   email            : "lycheecheng@zju.edu.cn" 
 
