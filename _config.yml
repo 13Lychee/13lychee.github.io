@@ -21,7 +21,7 @@ repository               : "13lychee/13lychee.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "photo.jpg"
   name             : "Liqi Cheng"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate"
