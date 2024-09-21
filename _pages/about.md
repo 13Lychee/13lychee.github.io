@@ -21,7 +21,7 @@ News
 - 07/2024: A paper accepted to ACM UIST 2024 and a paper accepted to IEEE VIS 2024.
 - 04/2024: A paper about "sports news generation" accepted to IEEE TVCG.
 - 12/2023: A paper accepted to AAAI.
-
+------
 
 Publications
 ======
