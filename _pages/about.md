@@ -74,6 +74,9 @@ ViSTec: Video Modeling for Sports Technique Recognition and Tactical Analysis | 
     </p>
      <p>Yuchen He, Zeqing Yuan, Yihong Wu, <b>Liqi Cheng</b>, Dazhen Deng, and Yingcai Wu</p> 
      <p><a href="/files/vistec.pdf">Paper</a> <b> | </b> <a href="https://vistec2024.github.io/">Video</a> <b> | </b> <a href="https://doi.org/10.1609/AAAI.V38I8.28692">DOI</a>
+     </p>
+ </td>
+ </tr>
 </table> 
 </div>
 
