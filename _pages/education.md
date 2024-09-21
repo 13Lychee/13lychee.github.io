@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Education"
+title: "About Me"
 permalink: /education/
 author_profile: true
 redirect_from:
@@ -14,3 +14,5 @@ Educations
 
 - [2022.09-current] Ph.D. Candidate, Zhejiang University, Hangzhou
 - [2018.09-2022.06] Undergraduate, Zhejiang University, Hangzhou
+
+
