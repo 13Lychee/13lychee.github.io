@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 
-I am currently a 3th-year Ph.D. candidate at Zhejiang University, under the supervision of [Prof. Yingcai Wu (巫英才)](https://person.zju.edu.cn/ycwu).  I am studying at the State Key Lab of CAD&CG, Zhejiang University and a member of [Interactive Data Group (IDG)](https://zjuidg.org/). My research revolves around the intersection of computer and sports science. My work encompasses Sports Visual Analytics, Immersive Analytics, and Human-Computer Interaction.
-
+I am currently a 3th-year Ph.D. candidate at Zhejiang University, under the supervision of [Prof. Yingcai Wu (巫英才)](https://person.zju.edu.cn/ycwu).  I am studying at the State Key Lab of CAD&CG, Zhejiang University and a member of [Interactive Data Group (IDG)](https://zjuidg.org/).  
+My research revolves around the intersection of computer and sports science. My work encompasses Sports Visual Analytics, Immersive Analytics, and Human-Computer Interaction.  
 Contact: [lycheecheng@zju.edu.cn](mailto:lycheecheng@zju.edu.cn)
 
 
@@ -33,18 +33,18 @@ Publications
 
 <style>
     .no-outer-border-table {
-        border: 0; /* 移除表格自身的边框 */
+        border: 0;
         border-collapse: collapse;
         width: 100%;
     }
     .no-outer-border-table td, .no-outer-border-table th {
-        border: 0; /* 移除表格自身的边框 */
+        border: 0; 
     }
     .no-outer-border-table tr {
-        border-bottom: 2px solid black; /* 行之间的边框 */
+        border-bottom: 2px solid black; 
     }
     .no-outer-border-table tr:last-child {
-        border-bottom: none; /* 去掉最后一行的底部边框 */
+        border-bottom: none;
     }
 </style>
 
