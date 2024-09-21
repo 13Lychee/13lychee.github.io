@@ -20,8 +20,9 @@ News
 - 04/2024: A paper about "sports news generation" accepted to IEEE TVCG.
 - 12/2023: A paper accepted to AAAI.  
 
-<br>
+
 ------
+
 
 Publications
 ======
