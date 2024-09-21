@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 # About Me
 
 I am currently a 3th-year Ph.D. candidate at Zhejiang University, under the supervision of [Prof. Yingcai Wu (巫英才)](https://person.zju.edu.cn/ycwu).  I am studying at the State Key Lab of CAD&CG, Zhejiang University and a member of [Interactive Data Group (IDG)](https://zjuidg.org/).
