@@ -27,8 +27,18 @@ Publications
 ======
 
 <style>
-    .no-border-table td, .no-border-table th {
-/*         border: none !important; */
+    .no-border-table {
+        border-collapse: collapse;
+        width: 100%;
+    }
+    .no-outer-border-table td, .no-outer-border-table th {
+        border: none;
+    }
+    .no-outer-border-table tr {
+        border-bottom: 1px solid black; /* 行之间的边框 */
+    }
+    .no-outer-border-table tr:last-child {
+        border-bottom: none; /* 去掉最后一行的底部边框 */
     }
 </style>
 
