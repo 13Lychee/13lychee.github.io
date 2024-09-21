@@ -38,7 +38,7 @@ Publications
         border: none;
     }
     .no-outer-border-table tr {
-        border-bottom: 1px solid black; /* 行之间的边框 */
+        border-bottom: 4px solid black; /* 行之间的边框 */
     }
     .no-outer-border-table tr:last-child {
         border-bottom: none; /* 去掉最后一行的底部边框 */
