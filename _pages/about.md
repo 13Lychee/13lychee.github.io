@@ -23,7 +23,35 @@ Contact: [lycheecheng@zju.edu.cn](mailto:lycheecheng@zju.edu.cn)
 - 04/2024: A paper about "sports news generation" accepted to IEEE TVCG.
 - 12/2023: A paper accepted to AAAI.
 
+# Publications
 
+<style> td, th {    border: none!important; } </style>
+<div align="center"> <table rules="none"> 
+    <tr>  
+    <td> <img src="/images/viscourt.png" style="zoom:50%"  alt="图片名称"/> </td> <td> 
+    <p><b>VisCourt: In-Situ Guidance for Interactive Tactic Training in Mixed Reality | ACM UIST'24</p></b> <p>
+    <em>The 37th ACM Symposium on User Interface Software and Technology.</em>
+    </p> 
+    <p><b>Liqi Cheng</b>, Hanze Jia, Lingyun Yu, Yihong Wu, Shuainan Ye, Dazhen Deng, Hui Zhang, Xiao Xie, and Yingcai Wu</p>
+     <p><a href="/files/viscourt.pdf">Paper</a> </p> </td></tr>
+    <tr>  
+    <td> <img src="/images/smartboard.png" style="zoom:50%"  alt="图片名称"/> </td> <td> 
+    <p><b>Smartboard: Visual Exploration of Team Tactics with LLM Agent | IEEE VIS'24</p></b> <p>
+    <em>IEEE Transactions on Visualization and Computer Graphics, 2024. (VIS 2024)</em>
+    </p> 
+    <p>Ziao Liu, Xiao Xie, Moqi He, Wenshuo Zhao, Yihong W, <b>Liqi Cheng</b>, Hui Zhang, and Yingcai Wu</p>
+     <p><a href="/files/smartboard.pdf">Paper</a> <b> | </b> <a href="https://ieeexplore.ieee.org/document/10670515">DOI</a> </p> </td></tr> 
+ <tr>  <td> <img src="/images/snil.png" style="zoom:50%"  alt="图片名称"/> </td> <td> <p><b>SNIL: Generating Sports News From Insights With Large Language Models | TVCG 24</p></b>
+     <em>IEEE Transactions on Visualization and Computer Graphics, 2024.</em>
+     <p><b>Liqi Cheng</b>, Dazhen Deng, Xiao Xie, Rihong Qiu, Mingliang Xu, and Yingcai Wu</p>
+     <p><a href="/files/snil.pdf">Paper</a> <b> | </b> <a href="https://ieeexplore.ieee.org/document/10507016/">DOI</a> </p> </td></tr>
+ <tr>  <td> <img src="/images/vistec.png" style="zoom:50%"  alt="图片名称"/> </td> <td> <p><b>
+ViSTec: Video Modeling for Sports Technique Recognition and Tactical Analysis | AAAI'24</p></b> 
+     <p>
+    <em>Proceedings of the 38th AAAI Conference on Artificial Intelligence.</em>
+    </p>
+     <p>Yuchen He, Zeqing Yuan, Yihong Wu, <b>Liqi Cheng</b>, Dazhen Deng, and Yingcai Wu</p> 
+     <p><a href="/files/vistec.pdf">Paper</a> <b> | </b> <a href="https://vistec2024.github.io/">Video</a> <b> | </b> <a href="https://doi.org/10.1609/AAAI.V38I8.28692">DOI</a>  </p> </td></tr></table>     </div>
 
 Educations
 ======
