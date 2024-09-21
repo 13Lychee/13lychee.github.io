@@ -33,7 +33,7 @@ Publications
         width: 100%;
     }
     .no-outer-border-table td, .no-outer-border-table th {
-        border: 4px solid black;
+        border: 0px solid black;
     }
     .no-outer-border-table tr {
         border-bottom: 4px solid black; /* 行之间的边框 */
