@@ -25,8 +25,13 @@ News
 
 Publications
 ======
-<style> td, th {    border: none!important; } </style>
-<div align="center"> <table rules="none"> 
+<style>
+    .no-border-table td, .no-border-table th {
+        border: none !important;
+    }
+</style>
+
+<div align="center"> <table class="no-border-table" rules="none"> 
     <tr>  
     <td> <img src="/images/viscourt.png" style="zoom:50%"  alt="图片名称"/> </td> <td> 
     <p><b>VisCourt: In-Situ Guidance for Interactive Tactic Training in Mixed Reality | ACM UIST'24</p></b> <p>
