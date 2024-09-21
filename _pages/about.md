@@ -25,6 +25,15 @@ News
 
 Publications
 ======
+
+
+|   ![vistec](/images/vistec.png)   | ViSTec: Video Modeling for Sports Technique Recognition and Tactical Analysis  (AAAI'24) <br />Proceedings of the 38th AAAI Conference on Artificial Intelligence.<br /><a>Paper</a> <b> \|</b> <a href="https://vistec2024.github.io/">Video</a> <b> \|</b> <a href="https://doi.org/10.1609/AAAI.V38I8.28692">DOI</a> |
+| ---- | ------------------------------------------------------------ |
+|      |                                                              |
+|      |                                                              |
+|      |                                                              |
+
+
 <style>
     .no-border-table td, .no-border-table th {
         border: none !important;
