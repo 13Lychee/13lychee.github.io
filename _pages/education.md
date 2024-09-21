@@ -29,8 +29,7 @@ Honors and Awards
 
 Services
 ======
-### Reviewing
-
+### Reviewing  
 - [2023] CHI LBW, ChinaVis
 
 
@@ -41,3 +40,9 @@ Teaching
 ======
 - [2023-2024] Cross Media Visualization and Information Visualization
 - [2022-2024] International Visualization Summer School of ZJU
+
+Contact Me
+======
+[lycheecheng@zju.edu.cn](lycheecheng@zju.edu.cn)  
+State Key Lab of CAD&CG, Zhejiang University.  
+Mengminwei Bd., No. 866, Yuhangtang Rd., Hangzhou, Zhejiang Province, P.R.China, 310058.
