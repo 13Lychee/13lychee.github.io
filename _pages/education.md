@@ -17,23 +17,16 @@ Educations
 - [2018.09-2022.06] Undergraduate, Zhejiang University, Hangzhou
 
 
-<br>
-
-
 Honors and Awards
 ======
 - [2022.06] Outstanding Graduates of Zhejiang Province
 - [2022.06] Graduate Student Scholarship
 
-<br>
 
 Services
 ======
 ### Reviewing  
 - [2023] CHI LBW, ChinaVis
-
-
-<br>
 
 
 Teaching
