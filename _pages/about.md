@@ -10,27 +10,20 @@ redirect_from:
 
 I am currently a 3th-year Ph.D. candidate at Zhejiang University, under the supervision of [Prof. Yingcai Wu (巫英才)](https://person.zju.edu.cn/ycwu).  I am studying at the State Key Lab of CAD&CG, Zhejiang University and a member of [Interactive Data Group (IDG)](https://zjuidg.org/).  
 My research revolves around the intersection of computer and sports science. My work encompasses Sports Visual Analytics, Immersive Analytics, and Human-Computer Interaction.  
-Contact: [lycheecheng@zju.edu.cn](mailto:lycheecheng@zju.edu.cn)
+Contact: [lycheecheng@zju.edu.cn](mailto:lycheecheng@zju.edu.cn)  
 
-
-<br>
 
 
 News
 ======
 - 07/2024: A paper accepted to ACM UIST 2024 and a paper accepted to IEEE VIS 2024.
 - 04/2024: A paper about "sports news generation" accepted to IEEE TVCG.
-- 12/2023: A paper accepted to AAAI.
+- 12/2023: A paper accepted to AAAI.  
 
-
-
-------
-<br>
 
 
 Publications
 ======
-
 <style>
     .no-outer-border-table {
         border: 0;
