@@ -36,7 +36,7 @@ Publications
 
 <style>
     .no-border-table td, .no-border-table th {
-        border: none !important;
+/*         border: none !important; */
     }
 </style>
 
