@@ -41,14 +41,14 @@ Publications
         border: 0; /* 移除表格自身的边框 */
     }
     .no-outer-border-table tr {
-        border-bottom: 4px solid black; /* 行之间的边框 */
+        border-bottom: 2px solid black; /* 行之间的边框 */
     }
     .no-outer-border-table tr:last-child {
         border-bottom: none; /* 去掉最后一行的底部边框 */
     }
 </style>
 
-<div align="center"> <table class="no-outer-border-table" rules="none"> 
+<table class="no-outer-border-table" rules="none"> 
     <tr>  
     <td> <img src="/images/viscourt.png" style="zoom:50%"  alt="图片名称"/> </td> <td> 
     <p><b>VisCourt: In-Situ Guidance for Interactive Tactic Training in Mixed Reality | ACM UIST'24</b>
@@ -78,7 +78,7 @@ ViSTec: Video Modeling for Sports Technique Recognition and Tactical Analysis | 
  </td>
  </tr>
 </table> 
-</div>
+
 
 
 
