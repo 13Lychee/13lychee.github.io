@@ -45,6 +45,22 @@ Publications
 
 <table class="no-outer-border-table" rules="none"> 
     <tr>  
+    <td> <img src="/images/hoopscouter.png" style="zoom:50%"  alt="图片名称"/> </td> <td> 
+    <p><b>Visual Analytics of Ball Handlers’ Decisions in Basketball Games | PVIS'25</b>
+        <p><em>IEEE Pacific Visualization Conference</em>
+    </p> 
+    <p>Yihong Wu, Ziao Liu, <b>Liqi Cheng</b>, Moqi He, Dazhen Deng, Xiao Xie, Hui Zhang, and Yingcai Wu</p>
+     <p></p>
+    <tr> 
+    <tr>  
+    <td> <img src="/images/protal.png" style="zoom:50%"  alt="图片名称"/> </td> <td> 
+    <p><b>ProTAL: A Drag-and-Link Video Programming Framework for Temporal Action Localization | ACM CHI'25</b>
+        <p><em>Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems</em>
+    </p> 
+    <p>Yuchen He, Jianbing Lv, <b>Liqi Cheng</b>, Lingyu Meng, Dazhen Deng, and Yingcai Wu</p>
+     <p><a href="/files/protal.pdf">Paper</a> </p>
+    <tr>  
+    <tr>  
     <td> <img src="/images/viscourt.png" style="zoom:50%"  alt="图片名称"/> </td> <td> 
     <p><b>VisCourt: In-Situ Guidance for Interactive Tactic Training in Mixed Reality | ACM UIST'24</b>
         <p><em>The 37th ACM Symposium on User Interface Software and Technology.</em>

@@ -25,7 +25,8 @@ Honors and Awards
 
 Services
 ======
-- **Reviewing**  
+- **Reviewing**
+  - [2024] CHI, Pvis  
   - [2023] CHI LBW, ChinaVis
 
 
