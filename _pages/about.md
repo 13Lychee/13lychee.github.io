@@ -46,7 +46,7 @@ Publications
 
 <table class="no-outer-border-table" rules="none"> 
     <tr>  
-    <td> <img src="/images/hoopscouter.png" style="zoom:50%"  alt="图片名称"/> </td> <td> 
+    <td> <img src="/images/hoopscouter.png" style="zoom:30%"  alt="图片名称"/> </td> <td> 
     <p><b>Visual Analytics of Ball Handlers’ Decisions in Basketball Games | PVIS'25</b>
         <p><em>IEEE Pacific Visualization Conference</em>
     </p> 
@@ -54,7 +54,7 @@ Publications
      <p></p>
     <tr> 
     <tr>  
-    <td> <img src="/images/protal.png" style="zoom:50%"  alt="图片名称"/> </td> <td> 
+    <td> <img src="/images/protal.png" style="zoom:30%"  alt="图片名称"/> </td> <td> 
     <p><b>ProTAL: A Drag-and-Link Video Programming Framework for Temporal Action Localization | ACM CHI'25</b>
         <p><em>Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems</em>
     </p> 
