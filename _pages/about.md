@@ -16,6 +16,7 @@ Contact: [lycheecheng@zju.edu.cn](mailto:lycheecheng@zju.edu.cn)
 
 News
 ======
+- 02/2025: A paper accepted to ACM CHI 2025 and a paper accepted to IEEE PVIS 2025.
 - 07/2024: A paper accepted to ACM UIST 2024 and a paper accepted to IEEE VIS 2024.
 - 04/2024: A paper about "sports news generation" accepted to IEEE TVCG.
 - 12/2023: A paper accepted to AAAI.  
