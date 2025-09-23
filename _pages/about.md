@@ -16,6 +16,7 @@ Contact: [lycheecheng@zju.edu.cn](mailto:lycheecheng@zju.edu.cn)
 
 News
 ======
+- 07/2025: Two papers accepted to ACM UIST 2025.
 - 02/2025: A paper accepted to ACM CHI 2025 and a paper accepted to IEEE PVIS 2025.
 - 07/2024: A paper accepted to ACM UIST 2024 and a paper accepted to IEEE VIS 2024.
 - 04/2024: A paper about "sports news generation" accepted to IEEE TVCG.
@@ -44,7 +45,23 @@ Publications
     }
 </style>
 
-<table class="no-outer-border-table" rules="none"> 
+<table class="no-outer-border-table" rules="none">
+    <tr>  
+    <td> <img src="/images/vismimic.png" style="zoom:50%"  alt="图片名称"/> </td> <td> 
+    <p><b>VisMimic: Integrating Motion Chain in Feedback Video Generation for Motor Coaching | ACM UIST'25</b>
+        <p><em>The 38th ACM Symposium on User Interface Software and Technology.</em>
+    </p> 
+    <p>Liqi Cheng, Xiao Xie, Yiwei Peng, Minghao Feng, Yuchen He, Anqi Cao, Yihong Wu, Hui Zhang, and Yingcai Wu</p>
+     <p><a href="/files/vismimic.pdf">Paper</a></p>
+    <tr> 
+    <tr>  
+    <td> <img src="/images/from_sports.png" style="zoom:50%"  alt="图片名称"/> </td> <td> 
+    <p><b>From Sports Videos to Immersive Training: Augmenting Human Motion to Enrich Basketball Training Experience | ACM UIST'25</b>
+        <p><em>The 38th ACM Symposium on User Interface Software and Technology.</em>
+    </p> 
+    <p>Yihong Wu, Xiao Xie, Lingyun Yu, Xinyi Ruan, Runzhou Li, <b>Liqi Cheng <b>, Shuainan Ye, Dazhen Deng, Hui Zhang, and Yingcai Wu</p>
+     <p><a href="/files/from_sports.pdf">Paper</a></p>
+    <tr>  
     <tr>  
     <td> <img src="/images/hoopscouter.png" style="zoom:50%"  alt="图片名称"/> </td> <td> 
     <p><b>Visual Analytics of Ball Handlers’ Decisions in Basketball Games | PVIS'25</b>
